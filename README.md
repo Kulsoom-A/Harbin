@@ -1,4 +1,4 @@
-# Harbin manuscript reproducibility repository
+# Northeast Asia manuscript reproducibility repository
 
 This repository contains the analysis code used for the manuscript on forest functioning, hydro-climatic trends, hot-dry event resilience, and vulnerability across Northeast Asia.
 
